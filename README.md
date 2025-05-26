@@ -77,3 +77,6 @@ El modelo conceptual está diseñado bajo un enfoque multidimensional con:
 ## Modelo lógico
 
 Este modelo representa un data warehouse centrado en el análisis de dispositivos móviles, su cobertura y los registros de uso, con dimensiones normalizadas jerárquicamente para una mayor organización y eficiencia de almacenamiento.
+
+![Logico y conceptual-Page-2 drawio](https://github.com/user-attachments/assets/41429bfe-fab4-4bf9-bc03-82525c225ffe)
+
