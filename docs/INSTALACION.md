@@ -45,7 +45,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=proyecto_final_dw
 ```
-- ⚠️ Asegurate de que la base proyecto_final_dw exista y esté en codificación UTF-8.
+- ⚠️ Asegurarse de que la base proyecto_final_dw exista y esté en codificación UTF-8.
 
 ## 🛠️ Crear el esquema de base de datos
 
@@ -54,7 +54,7 @@ python scripts/create_dw_schema.py
 ```
 
 ## 📂 Cargar datos
- Copiá tus archivos reales a la carpeta /data (no están en el repo por privacidad).
+ Copiar archivos reales a la carpeta /data (no están en el repo por privacidad).
 ```bash
 # Crear dimensión de tiempo
 python scripts/load_dim_tiempo.py
@@ -70,7 +70,8 @@ python scripts/load_fact_status_conexion.py --file data/KPI_status.xlsx
 ```
 
 ## 📊 Consultas útiles (ver carpeta /sql)
-Podés ejecutar consultas SQL para validar los datos cargados. Ejemplo:
+(Opcional) Hacer consultas SQL para validar los datos cargados. Ejemplo:
 ```sql
 SELECT comuna, COUNT(*) FROM dim_ubicacion GROUP BY comuna;
 ```
+En el archivo [consultas_olap.sql](../sql/consultas_olap.sql) están las consultas basadas en las preguntas planteadas del proyecto.
