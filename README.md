@@ -12,6 +12,7 @@
    - [Impacto de la migración](#impacto-de-la-migración)  
 6. [Modelo conceptual](#modelo-conceptual)  
 7. [Modelo lógico](#modelo-lógico)
+8. [Instalación y ejecución](#instalación-y-ejecución)
 
 ---
 
@@ -80,3 +81,6 @@ Este modelo representa un data warehouse centrado en el análisis de dispositivo
 
 ![Logico y conceptual-Page-2 drawio](https://github.com/user-attachments/assets/41429bfe-fab4-4bf9-bc03-82525c225ffe)
 
+## Instalación y ejecución
+
+Si querés correr este proyecto en tu máquina, seguí la guía de instalación en [docs/INSTALACION.md](docs/INSTALACION.md)
