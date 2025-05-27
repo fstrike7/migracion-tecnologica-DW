@@ -18,7 +18,7 @@ Este documento explica cómo instalar y ejecutar el proyecto localmente para pro
 
 ```bash
 git clone https://github.com/fstrike7/migracion-tecnologica-DW.git
-cd <repo>
+cd migracion-tecnologica-DW
 ```
 
 ### 2. Crear entorno virtual
