@@ -17,7 +17,7 @@ Este documento explica cómo instalar y ejecutar el proyecto localmente para pro
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<usuario>/<repo>.git
+git clone https://github.com/fstrike7/migracion-tecnologica-DW.git
 cd <repo>
 ```
 
