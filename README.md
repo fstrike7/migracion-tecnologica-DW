@@ -83,4 +83,4 @@ Este modelo representa un data warehouse centrado en el análisis de dispositivo
 
 ## Instalación y ejecución
 
-Si querés correr este proyecto en tu máquina, seguí la guía de instalación en [docs/INSTALACION.md](docs/INSTALACION.md)
+Guía de instalación para ejecutar este proyecto localmente en [docs/INSTALACION.md](docs/INSTALACION.md)
