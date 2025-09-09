@@ -1,0 +1,38 @@
+id_service_status,service_status,release_cause1,release_cause2
+1,Failure,Authentication Failure,"Protocol error, unspecified"
+2,Failure,Authentication Failure,GSM Authentication Unacceptable
+3,Failure,Authentication Reject,No Cause Parameter Carried In Message
+4,Failure,Clear Request,Radio Interface Message Failure
+5,Failure,Clear Request,Radio Interface Failure
+6,Failure,Clear Request,Equipment Failure
+7,Failure,Clear Request,DTM Handover Timer Expiry
+8,Failure,IU Release Command,Normal Release
+9,Failure,IU Release Complete,No Cause Parameter Carried In Message
+10,Failure,IU Release Request,Failure in the Radio Interface Procedure
+11,Failure,IU Release Request,Release Due to UTRAN Generated Reason
+12,Failure,IU Release Request,Release Due to UE Generated Signalling Connection Release
+13,Failure,IU Release Request,Resource Optimisation Relocation
+14,Failure,IU Release Request,Radio Connection with UE Lost
+15,Failure,IU Release Request,Normal Release
+16,Failure,Location Updating Reject,Plmn Not Allowed
+17,Failure,Location Updating Reject,Network Failure
+18,Failure,Security Mode Reject,Unspecified Failure
+19,Failure,Security Mode Reject,Failure in the Radio Interface Procedure
+20,Failure,Security Mode Reject,Release Due to UTRAN Generated Reason
+21,Success,Clear Command,Call Control
+22,Success,Clear Request,Equipment Failure
+23,Success,IU Release Command,Unspecified Failure
+24,Success,IU Release Command,Normal Release
+25,Success,IU Release Complete,No Cause Parameter Carried In Message
+26,Success,IU Release Request,Release Due to UE Generated Signalling Connection Release
+27,Success,IU Release Request,Resource Optimisation Relocation
+28,Success,IU Release Request,Radio Connection with UE Lost
+29,User Cause Failure,Authentication Failure,MAC Failure
+30,User Cause Failure,Authentication Failure,Synch Failure
+31,User Cause Failure,IMSI Detach Indication,No Cause Parameter Carried In Message
+32,User Cause Failure,Location Updating Reject,Plmn Not Allowed
+33,User Cause Failure,Location Updating Reject,Location Area Not Allowed
+34,User Cause Failure,Location Updating Reject,National Roaming Not Allowed in Location Area
+35,User Cause Failure,Location Updating Reject,IMSI Unknown in HLR
+36,User Cause Failure,Location Updating Reject,Illegal ME
+37,User Cause Failure,Location Updating Reject,Invalid Mandatory Information
